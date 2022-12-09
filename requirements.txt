@@ -7,3 +7,5 @@ seaborn
 imblearn
 streamlit
 sweetviz
+pycaret
+xgboost
